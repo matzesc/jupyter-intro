@@ -2,7 +2,7 @@
 
 ## Git repos with Jupyter examples
 
-- [https://github.com/jupyter/docker-demo-images.git](docker-demo-images)
-- [https://github.com/JuliaAcademy/Introduction-to-Julia.git](Introduction-to-Julia)
-- [https://github.com/jupyterlab/jupyterlab-demo.git](jupyterlab-demo)
-- [https://github.com/jupyter/try-jupyter.git](try-jupyter)
+- [docker-demo-images](https://github.com/jupyter/docker-demo-images.git)
+- [Introduction-to-Julia](https://github.com/JuliaAcademy/Introduction-to-Julia.git)
+- [jupyterlab-demo](https://github.com/jupyterlab/jupyterlab-demo.git)
+- [try-jupyter](https://github.com/jupyter/try-jupyter.git)
